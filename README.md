@@ -34,7 +34,7 @@ Follow these steps to get the project running locally:
 git clone [https://github.com/rishi554/reactjs-weather-app.git](https://github.com/rishi554/reactjs-weather-app.git)
 
 # Navigate to directory
-cd weather-info-project
+cd reactjs-weather-app
 
 # Install dependencies
 npm install
